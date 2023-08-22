@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Önder Kaya</h1>
-<h3 align="center">A student currently studying on Computer Programming</h3>
+<h3 align="center">A student currently studying on Computer Programming.</h3>
 
 - 🌱 I’m currently learning **C#, C++ and Unreal Engine**
 
