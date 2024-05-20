@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Önder</h1>
-<h3 align="center">Computer Programming Student, Video Editor, Graphics & Motion Designer from Turkey</h3>
+<h3 align="center">Junior Software Developer, Video Editor, Graphics & Motion Designer from Turkey</h3>
 
 - 🌱 I’m currently learning **Python**
 
