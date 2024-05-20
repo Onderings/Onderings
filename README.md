@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Önder</h1>
 <h3 align="center">Computer Programming Student, Video Editor, Graphics & Motion Designer from Turkey</h3>
 
-- 🌱 I’m currently learning **C#, JavaScript, Python**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me: **onder.kaya004@gmail.com**
 
